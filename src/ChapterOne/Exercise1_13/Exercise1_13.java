@@ -1,6 +1,6 @@
 package ChapterOne.Exercise1_13;
 /*
-(Algebra: solve 2 * 2 linear equations) You can use Cramer’s rule to solve the following 2 * 2 system of linear equation:
+(Algebra: solve 2 * 2 linear equations) You can use Cramer’s rule to solve the following 2 * 2 system of linear equation:
 ax + by = e ,  cx + dy = f
 x = ed - bf/ad - bc , y = af - ec/ad - bc
 Write a program that solves the following equation and displays the value for x and y:
